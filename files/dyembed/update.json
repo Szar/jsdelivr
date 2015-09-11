@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "dyembed",
+  "repo": "Szar/dyembed",
+  "files": {
+    "include": ["dyembed.client.min.js", "dyembed.min.js"]
+  }
+}
